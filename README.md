@@ -1,7 +1,7 @@
 # Attornatus-Challenge
 > Avaliação Desenvolvedor Back-end Attornatus
 
-## Esta análise propõe avaliar os seguintes temas: 
+### Esta análise propõe avaliar os seguintes temas: 
 + Qualidade de código
 + Java, Spring boot
 + API REST
@@ -9,7 +9,7 @@
 
 # Desafio Java
 
-## Usando Spring boot, crie uma API simples para gerenciar Pessoas. Esta API deve permitir:  
+### Usando Spring boot, crie uma API simples para gerenciar Pessoas. Esta API deve permitir:  
 + Criar uma pessoa
 + Editar uma pessoa
 + Consultar uma pessoa
@@ -18,7 +18,7 @@
 + Listar endereços da pessoa
 + Poder informar qual endereço é o principal da pessoa  
 
-## Uma Pessoa deve ter os seguintes campos:  
+### Uma Pessoa deve ter os seguintes campos:  
 + Nome
 + Data de nascimento
 + Endereço:
@@ -27,28 +27,28 @@
 + Número
 + Cidade
 
-## Requisitos:  
+### Requisitos:  
 + Todas as respostas da API devem ser JSON  
 + Banco de dados H2
 
-## Diferencial
+### Diferencial
 + Testes
 + Clean Code
  
-## Será levado em avaliação 
+### Será levado em avaliação 
 + Estrutura, arquitetura e organização do projeto  
 + Boas práticas de programação  
 + Alcance dos objetivos propostos.
 
-#Desafio Concluido
+# Desafio Concluido
 
-## Tecnologias usadas:
+### Tecnologias usadas:
 + H2 Database
 + Lombok
 + Spring BootDevTools
 + Spring Data JPA
 + Spring WEB
 
-## Banco ultilizado:
+### Banco ultilizado:
 >Diagrama:
 ![image](https://user-images.githubusercontent.com/61746866/214711563-3ca47a94-ce31-4a0d-ae21-5f5b023c30a5.png)
