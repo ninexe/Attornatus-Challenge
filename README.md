@@ -39,3 +39,16 @@
 + Estrutura, arquitetura e organização do projeto  
 + Boas práticas de programação  
 + Alcance dos objetivos propostos.
+
+#Desafio Concluido
+
+## Tecnologias usadas:
++ H2 Database
++ Lombok
++ Spring BootDevTools
++ Spring Data JPA
++ Spring WEB
+
+## Banco ultilizado:
+>Diagrama:
+![image](https://user-images.githubusercontent.com/61746866/214711563-3ca47a94-ce31-4a0d-ae21-5f5b023c30a5.png)
